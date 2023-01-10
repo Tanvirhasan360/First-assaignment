@@ -1,0 +1,32 @@
+*{
+  margin: 0%;  
+    font-family: 'work sans' sans-serif;
+}
+.header{
+    background-image: url('images/banner/banner3.png');
+    width: 1600px;
+    height: 808px;
+    left: 0px;
+    top:0px;
+}
+.name{
+    margin:0 200px;
+    align-items: center;
+    
+}
+.header{
+    margin: 0 200px;
+    align-items: center;
+    display: flex;
+}
+.title{
+    font-weight: 700;
+    font-size: 85px;
+}
+.banner-des{
+    font-size:18px;
+    margin-bottom: 30px;
+}
+.basic{
+    text-align: right;
+}
